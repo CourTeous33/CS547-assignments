@@ -1,6 +1,6 @@
 # This is a repo to store all data files for UIUC CS547 Deep Learning
 ## For weather 
-DAPR - Number of days included in the multiday precipitation total (MDPR)
+DAPR - Number of days included in the multiday precipitation total (MDPR) \\
 SNOW - Snowfall
 WT03 - Thunder
 WT04 - Ice pellets, sleet, snow pellets, or small hail"
